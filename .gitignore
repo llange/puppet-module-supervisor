@@ -10,3 +10,4 @@ Gemfile.lock
 *.iml
 .ruby-version
 atlassian-ide-plugin.xml
+.svn
